@@ -1,3 +1,3 @@
-# 00: Module introduction and overview
+# 00: Module introduction 
 
 Linux · Computer Networks
