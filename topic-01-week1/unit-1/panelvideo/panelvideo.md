@@ -1,1 +1,1 @@
-# 01: Intro to Linux
+# 01: Intro to Linux + Scripting
