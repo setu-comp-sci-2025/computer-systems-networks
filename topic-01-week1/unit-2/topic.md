@@ -1,3 +1,3 @@
-# Week 1 Class 2
+# AVAILABLE SEPT 3RD
 
 Number Bases · Unix Permissions
