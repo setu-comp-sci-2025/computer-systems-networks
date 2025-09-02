@@ -1,3 +1,3 @@
-# 01: Linux Intro and Command Line
+# 01: Intro and Command Line
 
-Scripting · Navigation · Permissions
+Scripting · Permissions · Navigation
