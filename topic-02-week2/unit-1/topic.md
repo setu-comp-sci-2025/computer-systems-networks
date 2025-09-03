@@ -1,3 +1,3 @@
-# Week 2 Class 1 File Manipulation, wildcards IO redirection, sort, cut
+# 01: File Manipulation, wildcards, IO redirection, sort, cut
 
-cp · mv · rm · wildcards · sort
+cp · mv · rm · glob · sort
