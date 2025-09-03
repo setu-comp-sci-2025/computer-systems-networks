@@ -1,3 +1,3 @@
-# No. Bases and Navigating the OS
+# 02. Num Bases and Navigating the OS
 
 Number Bases · Unix Permissions · Navigation

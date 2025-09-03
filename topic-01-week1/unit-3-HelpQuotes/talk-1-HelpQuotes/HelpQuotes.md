@@ -1,4 +1,4 @@
-# 02: File Permissions
+# 03: Getting Help and Using Quotes
 
- Numbering Systems · Permissions · Octal
+ Help · Quotes
  

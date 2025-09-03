@@ -1,3 +1,3 @@
-# Week 1 Class 1 
+# 01. Overview and Scripting
 
 OS · Unix Permissions
