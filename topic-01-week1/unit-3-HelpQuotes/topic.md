@@ -1,2 +1,3 @@
-# 03: Getting Help and Using Quotes
+# 03: Getting Help and Know your Quotes
+
 Linux Help · Output of Quotes

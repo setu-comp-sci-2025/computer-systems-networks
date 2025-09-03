@@ -1,4 +1,4 @@
-# 02: File Permissions
+# 01: File Permissions
 
  Numbering Systems · Permissions · Octal
  
