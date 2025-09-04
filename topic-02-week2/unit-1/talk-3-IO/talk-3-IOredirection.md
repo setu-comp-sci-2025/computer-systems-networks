@@ -1,3 +1,3 @@
-# 02: IO Redirection
+# 03: IO Redirection
 
 STDIN · STDOUT · STDERR

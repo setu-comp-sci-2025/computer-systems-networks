@@ -1,4 +1,4 @@
-# 01: Getting Help and Quotes
+# Getting Help and Quotes
 
  Help · Quotes · PRACTICE
  
