@@ -2,13 +2,13 @@ title : Semester 2 2025
 weeks :
   - 2025-09-01 :
       title : 1
-      type  : tuition
+      type  : Navigation, Permissions
   - 2025-09-08 :
       title : 2
-      type  : tuition
+      type  : IO, grep, RegEx
   - 2025-09-15 :
       title : 3
-      type  : tuition
+      type  : loops, menus, sed
   - 2025-09-22 :
       title : Reading 1
       type  : reading
