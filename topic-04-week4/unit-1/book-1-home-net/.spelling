@@ -1,0 +1,53 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+ssh
+java
+helloworld.java
+8
+ifconfig
+ip
+inet
+hostname
+google.ie
+tssg
+wifi
+tracepath
+astro
+startup
+www.raspberrypi.org
+hdip
+celcius
+thingspeak
+api
+ - 00.Virtualbox and Vagrant.md
+SenseHat
+ - 01.01.md
+linux
+Vagrantfile
+vagrant-onsite-day
+Vagrantfiles
+pc0
+192.168.5.2
+config.vm.box
+ - 03.03.md
+VagrantFile
+vagrantfile
+HelloWorld
+HelloWorld.class
+ - 04.04.md
+eth1
+addr
+ECHO_REQUEST
+192.168.5.1.
+209.85.203.94
+Tracepath
+eth0
+ - 05.05.md
+Sci
+25
+main.py
+YOUR_DEVICE_NAME
+USE_YOUR_OWN_OR_GET_IT_IN_CLASS
