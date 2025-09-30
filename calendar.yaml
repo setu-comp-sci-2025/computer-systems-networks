@@ -12,14 +12,17 @@ weeks :
   - 2025-09-22 :
       title : Reading 1
       type  : reading
+  - 2025-09-29 :
+        title : 4
+        type  : Network Protocols  
   - 2025-10-06 :
-      title : 4
-      type  : tuition
-  - 2025-10-13 :
       title : 5
       type  : tuition
-  - 2025-10-20 :
+  - 2025-10-13 :
       title : 6
+      type  : tuition
+  - 2025-10-20 :
+      title : 7
       type  : tuition
   - 2025-10-27 :
       title : Reading 2
