@@ -1,1 +1,1 @@
-Lecture Part 2
+Lecture Video Part 2
