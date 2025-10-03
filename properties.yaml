@@ -11,8 +11,8 @@ icon:
   color: db0421
 ignore :
  - topic----assignments
- - topic-00-Assessment_Details
  - topic-01-linux-and-virtualisation
+# - topic-00-Assessment_Details
 # - topic-000-overview
 # - topic-01-week1
 # - topic-02-week2
