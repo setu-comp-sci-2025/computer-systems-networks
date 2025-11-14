@@ -9,6 +9,7 @@ defaultPdfReader: mozilla
 icon:
   type: ri:terminal-box-fill
   color: db0421
+llm: 2
 ignore :
  - topic----assignments
  - topic-01-linux-and-virtualisation
