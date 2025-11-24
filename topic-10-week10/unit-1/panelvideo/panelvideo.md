@@ -1,1 +1,1 @@
-IoT Platforms
+Event Driven Architecture
