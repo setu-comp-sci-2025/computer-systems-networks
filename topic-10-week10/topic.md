@@ -1,3 +1,3 @@
-# 10: IOT Platforms
+# 10: Event Driven Architecture
 
-Thingspeak
+Benefits · Protocols · Approaches
