@@ -1,2 +1,2 @@
-# 10: IOT Frameworks - Mobile Apps
+# 10: IOT Platforms - Blynk
 
