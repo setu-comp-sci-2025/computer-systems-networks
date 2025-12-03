@@ -1,1 +1,2 @@
-Events in Blynk
+IoT Platforms
+Events in Blynk · Thingspeak

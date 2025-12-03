@@ -1,3 +1,3 @@
-# IoT Platforms
+# Thingspeak
 
-Characteristics · IoT Platform Examples
+Characteristics · Examples

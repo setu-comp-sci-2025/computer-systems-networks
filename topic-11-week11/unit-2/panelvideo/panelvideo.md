@@ -1,1 +1,1 @@
-MQTT & Thingspeak
+Thingspeak
