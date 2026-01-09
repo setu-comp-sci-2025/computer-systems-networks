@@ -1,3 +1,3 @@
-# 00: Module intro OnSite 
+# 00: Module intro · OnSite 
 
 Linux · Computer Networks
