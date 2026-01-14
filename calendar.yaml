@@ -1,50 +1,50 @@
 title : Semester 2 2025
 weeks :
-  - 2025-09-01 :
+  - 2026-01-19 :
       title : 1
       type  : Navigation, Permissions
-  - 2025-09-08 :
+  - 2026-01-26 :
       title : 2
       type  : IO, grep, RegEx
-  - 2025-09-15 :
+  - 2026-02-02 :
       title : 3
       type  : loops, menus, sed
-  - 2025-09-22 :
-      title : Reading 1
-      type  : reading
-  - 2025-09-29 :
-        title : 4
-        type  : Network Protocols  
-  - 2025-10-06 :
+  - 2026-02-09 :
+      title : 4
+      type  : tuition
+  - 2026-02-16 :
+        title : Reading 2
+        type  : reading  
+  - 2026-02-23 :
       title : 5
       type  : tuition
-  - 2025-10-13 :
+  - 2026-03-02 :
       title : 6
       type  : tuition
-  - 2025-10-20 :
-      title : 7
-      type  : tuition
-  - 2025-10-27 :
+  - 2026-03-09 :
       title : Reading 2
       type  : reading
-  - 2025-11-03 :
+  - 2026-03-16 :
+      title : 7
+      type  : tuition
+  - 2026-03-23 :
       title : 8
       type  : tuition
-  - 2025-11-10 :
-      title : 9
+  - 2026-03-30 :
+      title : Easter
+      type  : holiday
+  - 2026-04-06 :
+      title : Easter
+      type  : holiday
+  - 2026-04-13 :
+      title : 09
       type  : tuition
-  - 2025-11-17 :
-      title : Reading 3
-      type  : reading
-  - 2025-11-24 :
+  - 2026-04-20 :
       title : 10
       type  : tuition
-  - 2025-12-01 :
+  - 2026-04-27 :
       title : 11
       type  : tuition
-  - 2025-12-08 :
+  - 2026-05-04 :
       title : 12
       type  : tuition
-  - 2025-12-15 :
-      title : Reading 4
-      type  : reading
