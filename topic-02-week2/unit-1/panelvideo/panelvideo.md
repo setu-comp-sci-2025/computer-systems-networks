@@ -1,1 +1,1 @@
-# 02: File and Content Manipulation, Input Output Redirection
+# 02: Content Manipulation, Input Output Redirection
