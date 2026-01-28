@@ -1,3 +1,3 @@
-# 02: Regular Expressions
+# 02: more Regex examples
 
  basic RegEx · extended RegEx · metacharacters
