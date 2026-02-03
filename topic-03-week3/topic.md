@@ -1,3 +1,3 @@
-# 03: Loops, Menus, sed
+# 03: Feb 2nd Bank hol
 
-case · select · loops · sed
+loops · case select · sed
