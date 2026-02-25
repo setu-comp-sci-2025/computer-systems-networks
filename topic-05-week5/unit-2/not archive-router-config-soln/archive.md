@@ -1,2 +1,0 @@
-# Lab Router Configuration Solution
-
