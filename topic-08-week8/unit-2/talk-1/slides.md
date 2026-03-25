@@ -277,8 +277,9 @@ while count < 3:  # Continues until count reaches 3
   first_char=message[0]
   length= len(message)
   reversed_message = message[::-1]
-  print(f"")
-  print(reversed_message)
+  print(f"First character: {first_char}")
+  print(f"Length: {length}")
+  print(f"Reversed message: {reversed_message}")
   ```
 
 ---
@@ -321,6 +322,28 @@ while count < 3:  # Continues until count reaches 3
     print(f"Average Temp: {sum(temperatures) / len(temperatures)}C")
     print(f"Average Temp: {sum(temperatures) / len(temperatures)}C")
     ```
+  
+  ```
+  temperatures = [sense.get_temperature() for _ in range(5)]
+  ```
+  
+  ### 🔍 What it does:
+  
+  - Runs `sense.get_temperature()` **5 times**
+  - Stores each reading in a list
+  
+  👉 Equivalent to:
+  
+  ```
+  temperatures = []
+  for _ in range(5):
+      temperatures.append(sense.get_temperature())
+  ```
+  
+  ### 🧠 About `_`
+  
+  - `_` means “I don’t care about this variable”
+  - It’s just used to repeat something
 
 ---
 
