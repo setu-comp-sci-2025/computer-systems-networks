@@ -1,4 +1,4 @@
-# Device Discovery
+# OPTIONAL: Device Discovery
 
 In the last step, in order to interact with the Raspberry Pi API, the client code contained the IP address. This means it needs to be updates every time the RPi gets a new IP address.
 
