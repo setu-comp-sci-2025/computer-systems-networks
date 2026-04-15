@@ -24,7 +24,7 @@ sense = SenseHat()
 MQTT_BROKER = "test.mosquitto.org"
 MQTT_PORT = 1883
 MQTT_TOPIC = "/fxwalsh/test"
-MESSAGE = "Hello HDip Comp Sci 2025  \n A Button Press Event occurred on Frank's RPi"
+MESSAGE = "Hello Cert Comp Sci 2026  \n A Button Press Event occurred on Frank's RPi"
 
 # Set up MQTT client
 client = mqtt.Client()
