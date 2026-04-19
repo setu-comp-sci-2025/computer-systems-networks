@@ -1,3 +1,3 @@
-# Assignment 2: IoT Application
+# Assignment 2: Connected Application
 
 Networking · IoT · Communication
