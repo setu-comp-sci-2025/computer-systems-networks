@@ -1,4 +1,4 @@
-# 12: Optional Topics
+# 12: Assignment & Progression
 
-Simulating Sensors · Packet Tracer
+Assignment/Progression Q & A
 
